@@ -1,0 +1,44 @@
+HTML
+- Hypertext
+- Markup
+- tags, elementos 
+- Language 
+
+CSS
+- Cascading Style Sheet
+
+JavaScript
+- Interpretada pelo Browser
+- Dinâmica
+- orientado a objeto.
+- ECMAScript trazendo inovações
+
+Conceitos Fundamentais de programção:
+- Comentários
+- Declaração de variáveis ( const, let)
+- Operadores (atribuição, concatenação, matemáticos)
+- Tipos de dados (string, number, boolean, Date)
+- Controle de Fluxo (if, else)
+- Estrutura de repetição (for)
+- Manipulação e gestão dos dados
+- conversão de dados.
+
+
+Algoritmo:
+- Sequencia de passos lógicos e finita para resolução de um problema.
+
+Fases da resolução de um problema.
+01. Coletar os dados.
+02. Processar os dados.
+03. Apresentar os dados.
+
+
+JavaScript -
+
+// Comentários, variáveis, tipos de dados, function.
+// variáveis
+const mensagem = " Bom dia."
+//tipo de dado
+// string: "", '', ``
+// Number: 2 1.3
+// function: //alert(mensagem)
